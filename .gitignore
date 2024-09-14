@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+/prisma/dev.db
+/prisma/dev.db-journal
+/prisma/migrations
 
 # testing
 /coverage
